@@ -58,5 +58,8 @@
   ```python
   my_set = {1, 2, 3, 4, 4}  
   ```
-**Sets:**
-1. Set Operations: Union, intersection, difference, etc.
+  **Sets:**
+  1. Set Operations: Union, intersection, difference, etc.
+  2. Methods: `add()` to include elements, `remove()` to delete, `discard()` without errors, and `clear()` to clear all elements.
+
+
